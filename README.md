@@ -9,7 +9,7 @@ Teacher said that besides we have a different render strategy between React web 
 
 [React Dom, React Native and the core](images/react-dom-react-native-and-core.png)
 
-They differ in strategies to render components, but the solutuion at all have common strategies to, as example:
+They differ in strategies to render components and the strategies, but the solutuion at all have common strategies to, as example:
 
 - manage the components;
 - send a component from a place to another place;
