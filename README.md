@@ -13,3 +13,4 @@ They differ in strategies to render components, but the solutuion at all have co
 
 - manage the components;
 - send a component from a place to another place;
+- manage states;
