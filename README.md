@@ -19,3 +19,5 @@ They differ in strategies to render components and the strategies, but the solut
 Teacher make his affirmattion more strong showing that in web we have to include sepparted parts in the application:
 
 ![React dependencies in web world](images/react-dependencies-in-web-world.png)
+
+And teacher said that this is why you only find results related to "React hooks" and not to "React Native hooks".
