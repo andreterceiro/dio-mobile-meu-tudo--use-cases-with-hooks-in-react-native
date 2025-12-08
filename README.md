@@ -11,4 +11,5 @@ Teacher said that besides we have a different render strategy between React web 
 
 They differ in strategies to render components, but the solutuion at all have common strategies to, as example:
 
-- manage the components
+- manage the components;
+- send a component from a place to another place;
