@@ -25,3 +25,4 @@ And teacher said that this is why you only find results related to "React hooks"
 Teacher said that other **examples** of render strategies are:
 
 - One linked to augument reality;
+- Other linked to Preact.
