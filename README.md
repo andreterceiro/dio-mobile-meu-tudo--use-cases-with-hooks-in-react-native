@@ -15,3 +15,7 @@ They differ in strategies to render components and the strategies, but the solut
 - send a component from a place to another place;
 - manage states;
 - manage values.
+
+Teacher make his affirmattion more strong showing that in web we have to include sepparted parts in the application:
+
+![React dependencies in web world](images/react-dependencies-in-web-world.png)
