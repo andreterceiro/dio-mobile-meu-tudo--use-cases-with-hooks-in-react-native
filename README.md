@@ -44,3 +44,10 @@ And he executed the project with the commands:
 cd my-hooks
 npm run start
 ```
+
+
+# Incrementing and decrementing a quantity without hooks
+
+Teacher developed a code similar o this:
+
+![increment and decrementing a quantity without hooks](images/increment-and-decrementing-a-quantity-without-hooks.png)
