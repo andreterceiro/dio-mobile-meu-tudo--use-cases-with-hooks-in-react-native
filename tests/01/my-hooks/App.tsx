@@ -1,12 +1,16 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Button } from 'react-native';
 
 export default function App() {
   let quantity = 12;
   return (
     <View style={styles.container}>
-      <Text style={styles.textLabel}>{quantity}</Text>
-      <StatusBar style="auto" />
+      <View style={styles.buttonRow}>
+        <Button title="-" />
+        <Text style={styles.textLabel}>{quantity}</Text>
+        <Button title="+" />      
+      </View>
+      <StatusBar style="auto" />      
     </View>
   );
 }
@@ -19,6 +23,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   textLabel: {
-    fontSize: 52
+    fontSize: 22
+  },
+  buttonRow: {
+    flexDirection: "row"
   }
 });
