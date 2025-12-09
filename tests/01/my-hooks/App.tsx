@@ -1,12 +1,16 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, Button } from 'react-native';
+import { Alert, StyleSheet, Text, View, Button } from 'react-native';
+
+export function alert() {
+  Alert.alert("oi")
+}
 
 export default function App() {
   let quantity = 12;
   return (
     <View style={styles.container}>
       <View style={styles.buttonRow}>
-        <Button title="-" />
+        <Button title="-" onPress={alert} />
         <Text style={styles.textLabel}>{quantity}</Text>
         <Button title="+" />      
       </View>
