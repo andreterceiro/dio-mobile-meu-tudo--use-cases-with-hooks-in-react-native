@@ -57,3 +57,5 @@ And if you run the code of the image (code of tests/01/my-hooks **now**, I will 
 ![console of the test app without hooks](images/console-of-the-test-app-without-hooks.png)
 
 And teacher explained that this occurs because you need a hook to link React Core with React Native libraries.
+
+![core and react native libraries link with a hook](images/core=and-react-native-libraries-link-with-a-hook.png)
