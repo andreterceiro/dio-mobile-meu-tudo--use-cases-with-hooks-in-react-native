@@ -35,3 +35,5 @@ Teacher created a test project with the command:
 ```
 npx create-expo-app my-hooks -t
 ```
+
+Then he selected the template "Blank (Typescript)".
