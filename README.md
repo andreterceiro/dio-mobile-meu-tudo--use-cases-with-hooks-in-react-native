@@ -53,3 +53,5 @@ Teacher developed a code similar o this:
 ![increment and decrementing a quantity without hooks](images/increment-and-decrementing-a-quantity-without-hooks.png)
 
 And if you run the code of the image (code of tests/01/my-hooks **now**, I will change in future), you will see that the quantity in the console changes as you expect, but the screen of the app no.
+
+![console of the test app without hooks](images/console-of-the-test-app-without-hooks.png)
