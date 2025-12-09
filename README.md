@@ -37,3 +37,10 @@ npx create-expo-app my-hooks -t
 ```
 
 Then he selected the template "Blank (Typescript)".
+
+And he executed the project with the commands:
+
+```
+cd my-hooks
+npm run start
+```
