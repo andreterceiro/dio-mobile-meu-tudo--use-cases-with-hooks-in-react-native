@@ -27,7 +27,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   textLabel: {
-    fontSize: 22
+    fontSize: 22,
+    marginLeft: 15,
+    marginRight: 15
   },
   buttonRow: {
     flexDirection: "row"
