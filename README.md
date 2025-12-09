@@ -26,3 +26,12 @@ Teacher said that other **examples** of render strategies are:
 
 - One linked to augument reality;
 - Other linked to Preact.
+
+
+# Setup of a test project
+
+Teacher created a test project with the command:
+
+```
+npx create-expo-app my-hooks -t
+```
