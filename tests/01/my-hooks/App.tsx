@@ -1,19 +1,20 @@
 import { StatusBar } from 'expo-status-bar';
 import { Alert, StyleSheet, Text, View, Button } from 'react-native';
-
-var quantity = 12;
-
-export function decrement(props: any) {
-  quantity = quantity - 1
-  console.log(quantity)
-}
-
-export function increment(props: any) {
-  quantity = quantity + 1
-  console.log(quantity)
-}
+import {useState} from 'react';
 
 export default function App() {
+  const [quantity, setQuantity] = useState<number>(12);
+
+  const decrement = () => {
+    setQuantity(quantity - 1);
+    console.log(quantity)
+  }
+
+  const increment = () => {
+    setQuantity(quantity + 1)
+    console.log(quantity)
+  }
+
   return (
     <View style={styles.container}>
       <View style={styles.buttonRow}>
