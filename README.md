@@ -59,3 +59,10 @@ And if you run the code of the image (code of tests/01/my-hooks **now**, I will 
 And teacher explained that this occurs because you need a hook to link React Core with React Native libraries.
 
 ![core and react native libraries link with a hook](images/core-and-react-native-libraries-link-with-a-hook.png)
+
+
+# Changing the code to use hooks
+
+See this git diff:
+
+![git diff](images/sending-to-console-the-same-value-that-is-presented-in-the-screen.png)
