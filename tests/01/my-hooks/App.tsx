@@ -6,13 +6,19 @@ export default function App() {
   const [quantity, setQuantity] = useState<number>(12);
 
   const decrement = () => {
-    setQuantity(quantity - 1);
-    console.log(quantity)
+    setQuantity((previousQuantity) => {
+      const newQuantity = previousQuantity - 1;
+      console.log(newQuantity);
+      return newQuantity;
+    })
   }
 
   const increment = () => {
-    setQuantity(quantity + 1)
-    console.log(quantity)
+    setQuantity((previousQuantity) => {
+      const newQuantity = previousQuantity + 1;
+      console.log(newQuantity);
+      return newQuantity;
+    })
   }
 
   return (
