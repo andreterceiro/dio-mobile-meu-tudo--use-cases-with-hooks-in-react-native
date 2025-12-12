@@ -66,3 +66,5 @@ And teacher explained that this occurs because you need a hook to link React Cor
 See this git diff:
 
 ![git diff](images/sending-to-console-the-same-value-that-is-presented-in-the-screen.png)
+
+As you can see in green, the new code can send to the console the exact value that is presented in the screen.
