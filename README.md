@@ -87,3 +87,5 @@ With this hook you can surveillance a variable and be notification when a change
 The declaration may seen a little different of the declaration  of the useState hook. Yes, they differ on the declaration.
 
 You also can make a surveillance on two variables.
+
+![surveillance on two variables](images/surveillance-on-two-variables.png)
