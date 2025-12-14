@@ -72,3 +72,8 @@ As you can see in green, the new code can send to the console the exact value th
 Teacher passed an interesting example. In that example he chained two hooks, see:
 
 ![using two useState hooks](images/using-two-useState-hooks.png)
+
+
+# Use effect
+
+We talked in some paragraphs above about the hook **use state**. Now we will talk about the hook **use effect**. 
