@@ -89,3 +89,7 @@ The declaration may seen a little different of the declaration  of the useState 
 You also can make a surveillance on two variables.
 
 ![surveillance on two variables](images/surveillance-on-two-variables.png)
+
+Also, you can make a surveillance on the app initialization, without specifying a variable:
+
+![surveillance without variables](images/surveillance-on-the-app-initialization-without-variables.png)
