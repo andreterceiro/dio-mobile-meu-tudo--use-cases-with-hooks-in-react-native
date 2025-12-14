@@ -81,3 +81,5 @@ We talked in some paragraphs above about the hook **use state**. Now we will tal
 Teacher showed us that this is the basic structure of the useEffect hook:
 
 ![basic usetEffect hook structure](images/basic-usetEffect-hook-structure.png)
+
+With this hook you can surveillance a variable and be notification when a change occurs on this variable.
