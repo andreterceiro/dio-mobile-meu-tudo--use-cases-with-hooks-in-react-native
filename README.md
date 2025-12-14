@@ -76,4 +76,8 @@ Teacher passed an interesting example. In that example he chained two hooks, see
 
 # Use effect
 
-We talked in some paragraphs above about the hook **use state**. Now we will talk about the hook **use effect**. 
+We talked in some paragraphs above about the hook **use state**. Now we will talk about the hook **use effect**.
+
+Teacher showed us that this is the basic structure of the useEffect hook:
+
+![basic usetEffect hook structure](images/basic-usetEffect-hook-structure.png)
