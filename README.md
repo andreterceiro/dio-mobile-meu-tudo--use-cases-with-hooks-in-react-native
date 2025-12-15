@@ -93,3 +93,12 @@ You also can make a surveillance on two variables.
 Also, you can make a surveillance on the app initialization, without specifying a variable:
 
 ![surveillance without variables](images/surveillance-on-the-app-initialization-without-variables.png)
+
+
+# useRef
+
+The import is done in a similar way to other hooks:
+
+```
+import { useRef } from "react";
+```
