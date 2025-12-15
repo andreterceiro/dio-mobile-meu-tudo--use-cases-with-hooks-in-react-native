@@ -116,7 +116,7 @@ I saw teacher also inserted an **inline stylezation** with **double brackets**, 
 Teacher explaned that in "HTML" world we can use "id"s to specify what element we wanna retrieve (to retrieve a value or change it). In React Native we have to use te **useRef** hook.
 
 
-
+# <span style='color: #F00'> I have to document the useReducer hook</span>
 
 
 # Final comments of the teacher
