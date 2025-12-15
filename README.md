@@ -119,6 +119,12 @@ Teacher explaned that in "HTML" world we can use "id"s to specify what element w
 
 
 
+# Final comments of the teacher
+
+Resume:
+
+- **useState**: you will use to store the state. You will store the state in the memory and can react in the visual part of the app;
+
 
 # Repository related to the classes
 
