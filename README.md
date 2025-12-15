@@ -102,3 +102,7 @@ The import is done in a similar way to other hooks:
 ```
 import { useRef } from "react";
 ```
+
+On the start of the explanation teacher said a little obvious comment, but **very** important. On using a &lt;TextInput&gt; he has to import it. And he said something like:
+
+"The &lt;TextInput&gt; I have to import from 'react-native' because he is linked to the visual part of the app. And hooks are more connected to the logic part, so I have to import from 'react'."
