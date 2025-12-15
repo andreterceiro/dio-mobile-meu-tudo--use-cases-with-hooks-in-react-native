@@ -112,3 +112,5 @@ On the start of the explanation teacher said a little obvious comment, but **ver
 I saw teacher also inserted an **inline stylezation** with **double brackets**, see:
 
 ![style inline - double brackets](images/style-inline--double-brackets.png)
+
+Teacher explaned that in "HTML" world we can use "id"s to specify what element we wanna retrieve (to retrieve a value or change it). In React Native we have to use te **useRef** hook.
