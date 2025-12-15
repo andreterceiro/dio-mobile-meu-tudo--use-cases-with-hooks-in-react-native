@@ -108,3 +108,7 @@ On the start of the explanation teacher said a little obvious comment, but **ver
 "The &lt;TextInput&gt; I have to import from 'react-native' because he is linked to the visual part of the app. And hooks are more connected to the logic part, so I have to import from 'react'."
 
 ![importing a text input](images/importing-a-text-input.png)
+
+I saw teacher also inserted an **inline stylezation** with **double brackets**, see:
+
+![style inline - double brackets](images/style-inline--double-brackets.png)
