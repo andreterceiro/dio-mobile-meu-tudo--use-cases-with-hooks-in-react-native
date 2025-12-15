@@ -128,6 +128,9 @@ Resume:
 - **useRef**: stores a reference to an object - this way you can interact with this object;
 - **useReducer**: you will use this hook when you wanna to reduce a lot of functions related to a component or a variable to a single function.
 
+In the beginning of the explanation teacher said that the two first hooks we said above (useState and useEffect) will be the main hooks that will use.
+
+
 # Repository related to the classes
 
 [link](https://github.com/digitalinnovationone/trilha-react-native-main-hooks)
