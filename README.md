@@ -125,7 +125,7 @@ Resume:
 
 - **useState**: you will use to store the state. You will store the state in the memory and can react in the visual part of the app. This parts "have a conversation";
 - **useEffect**: related to a collateral effect. Something happens with the variable that is being watched. And you can specify no variables when you wanna watch the app initialization or even specify more than one variable;
-
+- **useRef**: stores a reference to an object - this way you can interact with this object;
 
 # Repository related to the classes
 
