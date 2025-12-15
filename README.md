@@ -123,7 +123,7 @@ Teacher explaned that in "HTML" world we can use "id"s to specify what element w
 
 Resume:
 
-- **useState**: you will use to store the state. You will store the state in the memory and can react in the visual part of the app;
+- **useState**: you will use to store the state. You will store the state in the memory and can react in the visual part of the app. This parts "have a conversation";
 
 
 # Repository related to the classes
