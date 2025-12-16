@@ -119,6 +119,11 @@ Teacher explaned that in "HTML" world we can use "id"s to specify what element w
 # <span style='color: #F00'> I have to document the useReducer hook</span>
 
 
+# useReducer
+
+Teacher commented tha this hook is a little more complex than the other hooks.
+
+
 # Final comments of the teacher
 
 Resume:
