@@ -121,7 +121,7 @@ Teacher explaned that in "HTML" world we can use "id"s to specify what element w
 
 # useReducer
 
-Teacher commented tha this hook is a little more complex than the other hooks.
+Teacher commented tha this hook is a little more complex than the other hooks. Is use to reduce several handler functions to one function.
 
 
 # Final comments of the teacher
